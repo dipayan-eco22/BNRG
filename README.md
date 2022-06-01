@@ -1,2 +1,3 @@
 # BNRG
-Belief Networks on Random Graphs
+**Belief Networks on Random Graphs** <br>
+Allowing rational and cooperative agents to choose who they interact with based on their preferences, this study aims to investigate whether a consensus is ever reached by the group as a whole. This study makes use of computer simulation to simulate groups of varying sizes based on randomly generated graphs to find the time required to reach consensus. For groups consisting of a large number of agents, a consensus is quickly reached. But for smaller, and sparsely connected groups, it takes much longer. When agents are allowed to change their immediate neighbours they interact with, till they are satisfied, we witness group fragmentation into smaller sub-groups.
